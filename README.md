@@ -66,17 +66,7 @@ Grid automatically scales to fit fixed container size
 
 🛠️ How to Run the Project
 
-Clone the repository
 
-Open index.html in any modern web browser
-
-Hover over the grid to draw
-
-Click the “New Grid” button to enter a new grid size
-
-📚 Extra Credit (Optional Enhancements)
-
-Randomize square color on hover
 
 Darken the square by 10% with each additional hover (using CSS opacity)
 
