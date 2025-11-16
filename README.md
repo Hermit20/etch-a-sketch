@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Etch-a-Sketch
 
 Etch-a-Sketch Project
 
@@ -65,11 +65,5 @@ Grid automatically scales to fit fixed container size
 (Optional) Progressive darkening on repeated hovers
 
 🛠️ How to Run the Project
+https://hermit20.github.io/etch-a-sketch/
 
-
-
-Darken the square by 10% with each additional hover (using CSS opacity)
-
-📝 Reflection (Optional)
-
-Once finished, you can add a reflection section here describing what you learned, challenges you overcame, and how your understanding of the DOM improved.
